@@ -70,10 +70,10 @@ I'm a student at Ukraine and dream of working as a full stack developer
 </div>
 <div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ka9mal6tik&theme=dark&background=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ka9mal6t&theme=dark&background=000000)
 </div>
 
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka9mal6tik&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ka9mal6t&layout=compact&theme=vision-friendly-dark)
 </div>
