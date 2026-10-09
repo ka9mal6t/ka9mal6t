@@ -35,7 +35,7 @@
 - 🔭 I work on frontend and backend projects and enjoy learning new technologies.
 - 📱 Currently exploring Dart and mobile development with Android Studio.
 - ⚡ In my free time, I solve challenges on Codewars and read tech articles.
-- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=social&logo=gmail&logoColor=red)](mailto:vladimyr.kilko@gmail.com)
+- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=social&logo=gmail&logoColor=red)](mailto:volodymyr96kilko@gmail.com)
 
 ---
 
